@@ -99,7 +99,7 @@ et un module spec pour le client BDD
  - Ajoutez tous les fichiers du projet dans GIT et faites un premier commit avec le message "initial" et push en utilisant GIT en ligne de commande ou avec IntellJ
  - **Vérifiez le contenu de votre dépôt privé et n'y touchez plus jusqu'à l'examen**
  - Invitez nous **au plus tard lors de la dernière séance AMT du semestre** à votre dépôt privé comme collaborateur via Settings / collaborators de GITHUB :
-   - nicolas.glassey@cpnv-vd.ch
+   - nicolas.glassey@cpnv.ch
    - patrick.lachaize@gmail.com
 
 ## Vérification du bon fonctionement avec le endpoint "quotes" inclus dans le projet
